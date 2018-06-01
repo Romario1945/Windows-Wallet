@@ -1,0 +1,10 @@
+cd   % userprofile% \ AppData \ Роуминг \ ReecoinHome \
+реж
+rmdir   / q / s % userprofile% \ AppData \ Roaming \ ReecoinHome \ database
+rmdir   / q / s % userprofile% \ AppData \ Роуминг \ ReecoinHome \ txleveldb
+del / q / f       % userprofile% \ AppData \ Roaming \ ReecoinHome \ .lock
+del / q / f       % userprofile% \ AppData \ Роуминг \ ReecoinHome \ blk0001.dat
+del / q / f       % userprofile% \ AppData \ Роуминг \ ReecoinHome \ db.log
+del / q / f       % userprofile% \ AppData \ Роуминг \ ReecoinHome \ Reecoin.conf
+del / q / f       % userprofile% \ AppData \ Роуминг \ ReecoinHome \ peers.dat
+del / q / f       % userprofile% \ AppData \ Роуминг \ ReecoinHome \ debug.log
